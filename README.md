@@ -1,4 +1,6 @@
-## Hi there 👋
+![Alt Text](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+
+
 
 
 # Visitor Counter!
