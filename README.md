@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on ... A site similar to Peter Levels https://photoai.com/ but for Ai images of your peoples pets! 🐈
 - 📫 How to reach me: ... **domsal2002@gmail.com**
-- 🤖 Machine Learning Work Samples: ...
+### - 🤖 Machine Learning Work Samples: ...
  - https://github.com/Domsal2002/MSINT-Fashion-Analysis
  - https://github.com/Domsal2002/EduTrend-
   
-- 📺 A product of my work: Even though this repo is private here is a product of a project I created 
+### - 📺 A product of my work: Even though this repo is private here is a product of a project I created 
  - https://www.youtube.com/@MinuteMind0
 
 <h3 align="left">Languages and Tools:</h3>
