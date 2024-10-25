@@ -13,7 +13,9 @@
 - [EduTrend](https://github.com/Domsal2002/EduTrend-)
 
 ### 📺 A product of my work:
-Even though this repo is private, here is a product of a project I created:  
+Even though this repo is private, here is a product of a project I created:
+- [Reddit Story Bot]([https://github.com/Domsal2002/AutoTok](https://github.com/Domsal2002/Reddit-Story-Bot))
+- #### And heres a product of its work! 
 - [MinuteMind0 YouTube Channel](https://www.youtube.com/@MinuteMind0)
 
 ---
