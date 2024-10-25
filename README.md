@@ -38,7 +38,6 @@ My main interests are **Artificial Intelligence** and **Automation**. I enjoy cr
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> Flask </a> 
   <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> Node.js </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> Pandas </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <i class="devicon-scikitlearn-plain colored" style="font-size: 40px;"></i> Scikit-learn </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> Jupyter </a>
 </p>
 <p align="left">
