@@ -8,6 +8,9 @@
   📫 How to reach me: <strong>domsal2002@gmail.com</strong>
 </p>
 
+### 🔍 About Me:
+My main interests are **Artificial Intelligence** and **Automation**. I enjoy creating projects that leverage AI to solve problems or automate repetitive tasks to improve efficiency and creativity.
+
 ### 🤖 Machine Learning Work Samples:
 - [MSINT-Fashion-Analysis](https://github.com/Domsal2002/MSINT-Fashion-Analysis)
 - [EduTrend](https://github.com/Domsal2002/EduTrend-)
