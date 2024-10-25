@@ -15,7 +15,7 @@ My main interests are **Artificial Intelligence** and **Automation**. I enjoy cr
 - [MSINT-Fashion-Analysis](https://github.com/Domsal2002/MSINT-Fashion-Analysis)
 - [EduTrend](https://github.com/Domsal2002/EduTrend-)
 
-### 📺 A product of my work:
+### 🧑🏻‍💻 Favorite Repo by me:
 Even though this repo is private, here is a product of a project I created:
 - [Reddit Story Bot](https://github.com/Domsal2002/Reddit-Story-Bot)
 
