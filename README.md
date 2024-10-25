@@ -16,7 +16,6 @@ My main interests are **Artificial Intelligence** and **Automation**. I enjoy cr
 - [EduTrend](https://github.com/Domsal2002/EduTrend-)
 
 ### 🧑🏻‍💻 Favorite Repo by me:
-Even though this repo is private, here is a product of a project I created:
 - [Reddit Story Bot](https://github.com/Domsal2002/Reddit-Story-Bot)
 
 #### And here's a product of its work! 
