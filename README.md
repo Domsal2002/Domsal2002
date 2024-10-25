@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://platform.openai.com/docs/guides/gpt" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png" alt="gpt api" width="40" height="40"/> GPT API </a>
+  <a href="https://platform.openai.com/docs/guides/gpt" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png)" alt="gpt api" width="40" height="40"/> GPT API </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> TypeScript </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript </a>
