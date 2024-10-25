@@ -14,9 +14,10 @@
 
 ### 📺 A product of my work:
 Even though this repo is private, here is a product of a project I created:
-- [Reddit Story Bot](https://github.com/Domsal2002/AutoTok](https://github.com/Domsal2002/Reddit-Story-Bot)
-- #### And heres a product of its work! 
-- [MinuteMind0 YouTube Channel](https://www.youtube.com/@MinuteMind0](https://www.youtube.com/shorts/SRaHOkfT_NE)
+- [Reddit Story Bot](https://github.com/Domsal2002/Reddit-Story-Bot)
+
+#### And here's a product of its work! 
+- [MinuteMind0 YouTube Channel](https://www.youtube.com/shorts/SRaHOkfT_NE)
 
 ---
 
@@ -25,7 +26,7 @@ Even though this repo is private, here is a product of a project I created:
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> TypeScript </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript </a>
-  <a href="https://www.elevenlabs.io/" target="_blank"> <img src="https://elevenlabs.io/favicon.ico" alt="elven labs" width="40" height="40"/> Eleven Labs </a> 
+  <a href="https://www.elevenlabs.io/" target="_blank"> <img src="https://elevenlabs.io/favicon.ico" alt="eleven labs" width="40" height="40"/> Eleven Labs </a> 
 </p>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux </a> 
