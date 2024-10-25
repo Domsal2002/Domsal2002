@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 
 
-- 🔭 I’m currently working on ... A site similar to Peter Levels https://photoai.com/ but for Ai images of your peoples pets! 🐈
+- 🔭 I’m currently working on ... A site similar to Peter Levels https://photoai.com/ but for Ai images of pets! 🐈
 - 📫 How to reach me: ... **domsal2002@gmail.com**
 ### - 🤖 Machine Learning Work Samples: ...
  - https://github.com/Domsal2002/MSINT-Fashion-Analysis
