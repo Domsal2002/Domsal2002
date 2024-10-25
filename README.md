@@ -24,9 +24,9 @@ Even though this repo is private, here is a product of a project I created:
 
 ---
 
-### 💻 Favorite Code Editors:
-- **Visual Studio Code**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/> is my favorite code editor for its extensive extensions and great development experience.
-- **Cursor**: <img src="https://cursor.dev/favicon.ico" alt="cursor" width="30" height="30"/> is a new code editor I have been using more and more for its AI-powered coding features.
+### 💻 Favorite Code Editor:
+- **Visual Studio Code**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/> 
+
 
 ---
 
