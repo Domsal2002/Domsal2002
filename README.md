@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 
 <p align="center">
-  🔭 I’m currently working on ... A site similar to Peter Levels' <a href="https://photoai.com/">PhotoAI</a> but for AI images of pets! 🐈
+  🔭 I’m currently working on ... Imigiai.com
 </p>
 
 <p align="center">
