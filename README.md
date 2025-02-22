@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 
 <p align="center">
-  🔭 I’m currently working on [Imigiai](https://imigiai.com)
+  🔭 I’m currently working on <a href="https://imigiai.com" target="_blank">Imigiai</a>
 </p>
 
 <p align="center">
